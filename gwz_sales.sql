@@ -9,4 +9,4 @@ FROM
 GROUP BY 
   date_date
 ORDER BY 
-  sale_date;
+  date_date;
